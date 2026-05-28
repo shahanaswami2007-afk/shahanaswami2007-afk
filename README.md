@@ -1,3 +1,7 @@
+![Profile Banner](<img width="1983" height="793" alt="aeaf8055-f4bc-4227-a4a0-48955291e18b" src="https://github.com/user-attachments/assets/ae10e647-e7c9-432d-8e29-6d876edf9b53" />
+)
+
+
 # Hi, I'm Shahana 👋
 
 🎓 CSBS Undergraduate Student  
