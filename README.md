@@ -6,7 +6,7 @@
 🏆 Microsoft AI Skills Fest Participant  
 🗣️ Toastmaster Member
 
-##🚀 Skills
+## 🚀 Skills
 - Python
 - C Programming 
 - HTML/CSS
