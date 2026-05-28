@@ -58,8 +58,5 @@ An AI-based or rule-based system that helps filter and rank resumes based on job
 
 ![Shahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahanaswami2007-afk&show_icons=true&theme=tokyonight)
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahanaswami2007-afk&theme=tokyonight)
 
 
