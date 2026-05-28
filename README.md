@@ -1,5 +1,3 @@
-![Banner](https://via.placeholder.com/1000x300.png?text=Shahana+%7C+AI+%26+Software+Developer)
-
 
 # Hi, I'm Shahana 👋
 
