@@ -1,5 +1,4 @@
-![Profile Banner](<img width="1600" height="640" alt="WhatsApp Image 2026-05-28 at 8 56 24 PM" src="https://github.com/user-attachments/assets/2a4f4690-0e4c-4e19-9bc5-d5101bfe9aa0" />
-)
+![Profile Banner](a_wide_dark_themed_tech_banner_header_image_wit.png)
 
 
 # Hi, I'm Shahana 👋
