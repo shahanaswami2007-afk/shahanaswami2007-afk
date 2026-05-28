@@ -1,10 +1,10 @@
-![Profile Banner](a_wide_dark_themed_tech_banner_header_image_wit.png)
+![Banner](https://via.placeholder.com/1000x300.png?text=Shahana+%7C+AI+%26+Software+Developer)
 
 
 # Hi, I'm Shahana 👋
 
 🎓 CSBS Undergraduate Student  
-💡 Passionate about AI, Cloud Computing, and Software Development
+💡 Passionate about AI, Cloud Computing,Software Development,Business Analyst
 🏆 Microsoft AI Skills Fest Participant  
 🗣️ Toastmaster Member
 
